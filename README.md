@@ -13,7 +13,7 @@
 - 🔭 I’m pursuing B.Tech in CSE_AI from TIU, Kolkata
 - 🌱 I’m currently learning C++ and Java
 - 🤔 I’m not looking for help with anything rn
-- ⚡ Fun fact: Xerneas is based on the Celtic horned god Cernunnos
+- ⚡ Fun fact: If you observe a quantum particle, you change its behaviour
 <br>
 <br>
 <br>
