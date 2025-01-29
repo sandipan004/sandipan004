@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="2000px" height="350">
 <h1 align="center">Hi there, I'm Sandipan Dafadar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="30"/> </h1>
 
 <h3 align="center">Welcome to my GitHub profile </h3>
@@ -11,7 +12,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350px" height="230" />
 
 - 🔭 I’m pursuing B.Tech in CSE_AI from TIU, Kolkata
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C++,Java and Js
 - 🤔 I’m not looking for help with anything rn
 - ⚡ Fun fact: If you observe a quantum particle, you change its behaviour
 <br>
