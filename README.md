@@ -44,11 +44,3 @@
   <a href="mailto:sandipandafadar04@gmail.com"><img src="https://img.icons8.com/?size=70&id=P7UIlhbpWzZm&format=png"/></a>
   <a href="https://discordapp.com/users/1247069084169015316"><img src="https://img.icons8.com/?size=70&id=2mIgusGquJFz&format=png"/></a>
 </p>
-
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=sandipan004&show_icons=true&line_height=20&theme=radical"/>
-
-
