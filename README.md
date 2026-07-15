@@ -47,7 +47,7 @@
 
 
 
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipan004&show_icons=true&locale=en&layout=compact&theme=radical" />
+
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=sandipan004&show_icons=true&line_height=20&theme=radical"/>
