@@ -45,7 +45,7 @@
   <a href="https://discordapp.com/users/1247069084169015316"><img src="https://img.icons8.com/?size=70&id=2mIgusGquJFz&format=png"/></a>
 </p>
 
-# Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="30"/>
+
 <table align="center">
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipan004&show_icons=true&locale=en&layout=compact&theme=radical" />
