@@ -2,12 +2,8 @@
 <h1 align="center">Hi there, I'm Sandipan Dafadar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="30"/> </h1>
 
 <h3 align="center">Welcome to my GitHub profile </h3>
-<p align="center"> 
-  Visitor count<br>
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/sandipan004/count.svg?"  />
-</div>
-</p>
+<br>
+<br>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350px" height="230" />
 
